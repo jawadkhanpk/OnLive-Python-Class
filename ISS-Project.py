@@ -14,3 +14,5 @@ url = "https://maps.google.com/maps?&daddr="
 
 google_map_link = url + iss_position
 print(google_map_link)
+
+print("International Space Station")
